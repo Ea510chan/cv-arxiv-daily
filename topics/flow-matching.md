@@ -1,6 +1,6 @@
 # Flow Matching
 
-> Updated on 2026.09.06
+> Updated on 2026.09.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -102,7 +102,7 @@
 |2026-06-15|RGFVR: Reference-Guided Face Video Restoration with Flow Matching|Cem Eteke et.al.|[2606.16401](https://arxiv.org/abs/2606.16401)|null|
 |2026-06-15|FlowMPC: Improving Flow Matching policies with World Models|Chandon Hamel et.al.|[2606.16286](https://arxiv.org/abs/2606.16286)|null|
 |2026-06-15|LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction|Jigang Duan et.al.|[2606.16212](https://arxiv.org/abs/2606.16212)|null|
-|2026-06-14|Topological Flow Matching|Kacper Wyrwal et.al.|[2606.15897](https://arxiv.org/abs/2606.15897)|**[link](https://github.com/KacperWyrwal/topological-flow-matching)**|
+|2026-06-14|Topological Flow Matching|Kacper Wyrwal et.al.|[2606.15897](https://arxiv.org/abs/2606.15897)|[link](https://github.com/KacperWyrwal/topological-flow-matching)|
 |2026-06-14|Transferring Contact, Not Just Motion: Compliant Grasping Across Dexterous Hands|Soofiyan Atar et.al.|[2606.15516](https://arxiv.org/abs/2606.15516)|null|
 |2026-06-10|PianoKontext: Expressive Performance Rendering from Deadpan Context|Dmitrii Gavrilev et.al.|[2606.12282](https://arxiv.org/abs/2606.12282)|null|
 |2026-06-10|Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs|Deep Gandhi et.al.|[2606.12280](https://arxiv.org/abs/2606.12280)|null|

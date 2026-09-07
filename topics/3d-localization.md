@@ -1,6 +1,6 @@
 # 3D Localization
 
-> Updated on 2026.09.06
+> Updated on 2026.09.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|

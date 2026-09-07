@@ -1,6 +1,6 @@
 # World Model
 
-> Updated on 2026.09.06
+> Updated on 2026.09.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -139,7 +139,7 @@
 |2026-05-08|ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation|Haonan Wang et.al.|[2605.07390](https://arxiv.org/abs/2605.07390)|null|
 |2026-05-08|GEM: Generating LiDAR World Model via Deformable Mamba|Yang Wu et.al.|[2605.07326](https://arxiv.org/abs/2605.07326)|null|
 |2026-05-08|Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training|Jiaxuan Gao et.al.|[2605.07288](https://arxiv.org/abs/2605.07288)|null|
-|2026-05-08|Predictive but Not Plannable: RC-aux for Latent World Models|Wenyuan Li et.al.|[2605.07278](https://arxiv.org/abs/2605.07278)|**[link](https://github.com/Guang000/RC-aux)**|
+|2026-05-08|Predictive but Not Plannable: RC-aux for Latent World Models|Wenyuan Li et.al.|[2605.07278](https://arxiv.org/abs/2605.07278)|[link](https://github.com/Guang000/RC-aux)|
 |2026-05-08|Three-in-One World Model: Energy-Based Consistency, Prediction, and Counterfactual Inference for Marketing Intervention|Junichiro Niimi et.al.|[2605.07199](https://arxiv.org/abs/2605.07199)|null|
 |2026-05-08|See Tomorrow, Act Today: Foresight-Driven Autonomous Driving|Bozhou Zhang et.al.|[2605.07195](https://arxiv.org/abs/2605.07195)|null|
 |2026-05-08|Learning Visual Feature-Based World Models via Residual Latent Action|Xinyu Zhang et.al.|[2605.07079](https://arxiv.org/abs/2605.07079)|null|
